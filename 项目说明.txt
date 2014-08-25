@@ -1,7 +1,7 @@
-×Ô¶¯²¿ÊðlinuxÉÏµÄjava»·¾³
-ÕâÊÇÒ»¸ö¿ªÔ´µÄÏîÄ¿£¬ÏîÄ¿Ïà¹ØËµÃ÷ÈçÏÂ£º
-1.²ÉÓÃubuntu14.4-÷è÷ë°æ±¾£¬±àÐ´shell½Å±¾¡£
-2.ÊµÏÖ½Å±¾ÔËÐÐ¼´¿É×Ô¶¯ÅäÖÃjava»·¾³£¬²»ÐèÒªÈËÎª²Ù×÷£¨¾¡Á¿×öµ½×îÉÙ£©
-3.³öÏÖÎÊÌâ×ö³öÓÑºÃÌáÊ¾£¬²¢×ö³ÉÏà¹Ø¹¤×÷Á÷£¬¼´³öÏÖÎÊÌâroolback¡£
-4.´ËÏîÄ¿Ö÷ÒªÑ§Ï°linuxÃüÁîÒÔ¼°GitHubµÄÊ¹ÓÃ£¬»¶Ó­´ó¼ÒÒ»Æðcoding£¡
-                                                                      -- write by vic
+è‡ªåŠ¨éƒ¨ç½²linuxä¸Šçš„javaçŽ¯å¢ƒ
+è¿™æ˜¯ä¸€ä¸ªå¼€æºçš„é¡¹ç›®ï¼Œé¡¹ç›®ç›¸å…³è¯´æ˜Žå¦‚ä¸‹ï¼š
+1.é‡‡ç”¨ubuntu14.4-éº’éºŸç‰ˆæœ¬ï¼Œç¼–å†™shellè„šæœ¬ã€‚
+2.å®žçŽ°è„šæœ¬è¿è¡Œå³å¯è‡ªåŠ¨é…ç½®javaçŽ¯å¢ƒï¼Œä¸éœ€è¦äººä¸ºæ“ä½œï¼ˆå°½é‡åšåˆ°æœ€å°‘ï¼‰
+3.å‡ºçŽ°é—®é¢˜åšå‡ºå‹å¥½æç¤ºï¼Œå¹¶åšæˆç›¸å…³å·¥ä½œæµï¼Œå³å‡ºçŽ°é—®é¢˜roolbackã€‚
+4.æ­¤é¡¹ç›®ä¸»è¦å­¦ä¹ linuxå‘½ä»¤ä»¥åŠGitHubçš„ä½¿ç”¨ï¼Œæ¬¢è¿Žå¤§å®¶ä¸€èµ·codingï¼
+                                                                      -- 2041/08/25   write by vic
